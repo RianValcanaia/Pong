@@ -19,4 +19,11 @@ Tecla S: Raquete para baixo
 https://projeto-pong-three.vercel.app/
 ```
 
+### Futuras melhorias:
+* Centralizar o jogo;
+* Fazer um background;
+* Adicionar as instruções de movimentação;
+* Adicionar opções de customiazação de cores.
+
+
 
