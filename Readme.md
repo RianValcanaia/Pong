@@ -11,7 +11,7 @@ Este é um projeto em que fiz o jogo do pong, para aprender os fundamentos da pr
 
 ## 📁 Acesso ao projeto 
 ```
-Link!
+https://projeto-pong-three.vercel.app/
 ```
 
 
